@@ -1,0 +1,72 @@
+{
+  "filas": 315619,
+  "columnas": 74,
+  "modo": "microdatos",
+  "primeras_25_columnas": [
+    "folioviv",
+    "foliohog",
+    "numren",
+    "factor",
+    "tam_loc",
+    "rururb",
+    "ent",
+    "ubica_geo",
+    "edad",
+    "sexo",
+    "tamhogesc",
+    "parentesco",
+    "ic_rezedu",
+    "anac_e",
+    "inas_esc",
+    "niv_ed",
+    "ic_asalud",
+    "sa_dir",
+    "ic_segsoc",
+    "ss_dir",
+    "pea",
+    "par",
+    "jef_ss",
+    "cony_ss",
+    "hijo_ss"
+  ],
+  "columnas_pob_porc": [
+    "pobreza",
+    "pobreza_e",
+    "pobreza_m",
+    "no_pobv",
+    "int_pob",
+    "int_pobe"
+  ],
+  "col_ent_detectada": "ent",
+  "col_pobreza_detectada": "pobreza",
+  "col_ponderador_detectada": "factor",
+  "ent_unicos": 32,
+  "ent_tipo": "float64",
+  "ent_ejemplos": [
+    "1.0",
+    "2.0",
+    "3.0",
+    "4.0",
+    "5.0",
+    "6.0",
+    "7.0",
+    "8.0",
+    "9.0",
+    "10.0"
+  ],
+  "pobreza_valores": [
+    "0.0",
+    "1.0"
+  ],
+  "pobreza_nulos": 25,
+  "pobreza_e_valores": [
+    "0.0",
+    "1.0"
+  ],
+  "pobreza_e_nulos": 25,
+  "pobreza_m_valores": [
+    "0.0",
+    "1.0"
+  ],
+  "pobreza_m_nulos": 25
+}

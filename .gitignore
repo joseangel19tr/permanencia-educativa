@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.rar
+*.dta
+data/coneval/
+data/raw/coneval/
